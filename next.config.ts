@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const repo = "ME";
+const repo = "portfolio";
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
