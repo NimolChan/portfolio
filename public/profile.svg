@@ -1,0 +1,14 @@
+<svg width="640" height="820" viewBox="0 0 640 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chan Nimol profile mark</title>
+  <desc id="desc">Formal profile placeholder with the initials CN.</desc>
+  <rect width="640" height="820" fill="#F5F5F5"/>
+  <rect x="34" y="34" width="572" height="752" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="2"/>
+  <rect x="74" y="74" width="8" height="112" fill="#C8A96E"/>
+  <text x="92" y="176" fill="#2C2C2C" font-family="IBM Plex Mono, monospace" font-size="30" font-weight="700" letter-spacing="4">NETWORK</text>
+  <text x="92" y="402" fill="#0A0A0A" font-family="IBM Plex Mono, monospace" font-size="162" font-weight="700" letter-spacing="-16">CN</text>
+  <line x1="92" y1="458" x2="548" y2="458" stroke="#D9D9D9" stroke-width="2"/>
+  <text x="92" y="532" fill="#2C2C2C" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600">Network Infrastructure</text>
+  <text x="92" y="574" fill="#2C2C2C" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600">Engineer</text>
+  <text x="92" y="694" fill="#0A0A0A" font-family="IBM Plex Mono, monospace" font-size="26" font-weight="700" letter-spacing="2">PHNOM PENH</text>
+  <text x="92" y="734" fill="#2C2C2C" font-family="Inter, Arial, sans-serif" font-size="24">Cambodia</text>
+</svg>
