@@ -3,14 +3,11 @@ import { notFound } from "next/navigation";
 import { Footer } from "../../components/footer";
 import { SectionHeading } from "../../components/section-heading";
 import { getPortfolio } from "../../../lib/getPortfolio";
-<<<<<<< HEAD
-=======
 import { portfolioData } from "../../../lib/portfolio";
 
 export async function generateStaticParams() {
   return portfolioData.projects.map((project) => ({ slug: project.slug }));
 }
->>>>>>> f4b728f (Try CI)
 
 type ProjectDetailPageProps = {
   params: Promise<{
